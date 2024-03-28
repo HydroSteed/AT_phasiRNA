@@ -1,3 +1,4 @@
+## All PHAS Loci
 |   | F | L | R | S | Temp15 | Temp27|
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | 21nt | [Seq](phase_loci/Loci%20seq_flower-21nt.txt) | [Seq](phase_loci/Loci%20seq_leaf-21nt.txt) | [Seq](phase_loci/Loci%20seq_root-21nt.txt) | [Seq](phase_loci/Loci%20seq_seedling-21nt.txt) | [Seq](phase_loci/Loci%20seq_15℃-21nt.txt) | [Seq](phase_loci/Loci%20seq_27℃-21nt.txt) |
