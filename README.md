@@ -1,1 +1,2 @@
-[qq](phase_loci/Loci seq_15℃-21nt.txt)
+[qq](phasiRNA_expr/PhasiRNA_exp_15℃_22nt)
+[aa](phase_loci/Loci%20seq_15℃-24nt.txt)
