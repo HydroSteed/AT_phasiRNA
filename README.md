@@ -1,7 +1,7 @@
 # PhasiRNAs in *Arabidopsis*: biogenesis, temperature sensitivity and organ specificity
 
 Workflow for identificaion of the phasiRNA loci
-![pipeline](pileline.png)
+![pipeline](pipeline.png)
 
 
 ## All PHAS Loci
