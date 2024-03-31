@@ -13,6 +13,10 @@ Workflow for identificaion of the phasiRNA loci
 | 24nt | [Seq](phase_loci/Loci%20seq_flower-24nt.txt) | [Seq](phase_loci/Loci%20seq_leaf-24nt.txt) | [Seq](phase_loci/Loci%20seq_root-24nt.txt) | [Seq](phase_loci/Loci%20seq_seedling-24nt.txt) | [Seq](phase_loci/Loci%20seq_15℃-24nt.txt) | [Seq](phase_loci/Loci%20seq_27℃-24nt.txt) |
 
 
+## All PhasiRNAs
+
+
+
 ## List of temperature-sensitive/organ-specific phasiRNA loci
 1. Locus IDs: 15℃-sensitive phasiRNA loci idenified in flowers
 2. Locus IDs: 15℃-sensitive phasiRNA loci idenified in leaves
