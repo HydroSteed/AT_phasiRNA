@@ -23,34 +23,34 @@ Workflow for identificaion of the phasiRNA loci
 
 
 ## List of temperature-sensitive/organ-specific phasiRNA loci
-1. Locus IDs: 15℃-sensitive phasiRNA loci idenified in flowers
-2. Locus IDs: 15℃-sensitive phasiRNA loci idenified in leaves
-3. Locus IDs: 15℃-sensitive phasiRNA loci idenified in roots
-4. Locus IDs: 15℃-sensitive phasiRNA loci idenified in seedlings
-5. Locus IDs: 27℃-sensitive phasiRNA loci idenified in flowers
-6. Locus IDs: 27℃-sensitive phasiRNA loci idenified in leaves
-7. Locus IDs: 27℃-sensitive phasiRNA loci idenified in roots
-8. Locus IDs: 27℃-sensitive phasiRNA loci idenified in seedlings
-9. Locus IDs: Flower-specific phasiRNA loci idenified at 15℃
-10. Locus IDs: Leaf-specific phasiRNA loci idenified at 15℃
-11. Locus IDs: Flower-specific phasiRNA loci idenified at 27℃
+1. Locus IDs: 15℃-sensitive phasiRNA loci identified in flowers
+2. Locus IDs: 15℃-sensitive phasiRNA loci identified in leaves
+3. Locus IDs: 15℃-sensitive phasiRNA loci identified in roots
+4. Locus IDs: 15℃-sensitive phasiRNA loci identified in seedlings
+5. Locus IDs: 27℃-sensitive phasiRNA loci identified in flowers
+6. Locus IDs: 27℃-sensitive phasiRNA loci identified in leaves
+7. Locus IDs: 27℃-sensitive phasiRNA loci identified in roots
+8. Locus IDs: 27℃-sensitive phasiRNA loci identified in seedlings
+9. Locus IDs: Flower-specific phasiRNA loci identified at 15℃
+10. Locus IDs: Leaf-specific phasiRNA loci identified at 15℃
+11. Locus IDs: Flower-specific phasiRNA loci identified at 27℃
 
 ## List of temperature-sensitive/organ-specific phasiRNAs
-1. PhasiRNA IDs: 15℃-sensitive phasiRNAs idenified in flowers
-2. PhasiRNA IDs: 15℃-sensitive phasiRNAs idenified in leaves
-3. PhasiRNA IDs: 15℃-sensitive phasiRNAs idenified in roots
-4. PhasiRNA IDs: 15℃-sensitive phasiRNAs idenified in seedlings
-5. PhasiRNA IDs: 27℃-sensitive phasiRNAs idenified in flowers
-6. PhasiRNA IDs: 27℃-sensitive phasiRNAs idenified in leaves
-7. PhasiRNA IDs: 27℃-sensitive phasiRNAs idenified in roots
-8. PhasiRNA IDs: 27℃-sensitive phasiRNAs idenified in seedlings
-9. PhasiRNA IDs: Flower-specific phasiRNAs idenified at 15℃
-10. PhasiRNA IDs: Leaf-specific phasiRNAs idenified at 15℃
-11. PhasiRNA IDs: Flower-specific phasiRNAs idenified at 27℃
+1. PhasiRNA IDs: [15℃-sensitive phasiRNAs identified in flowers](list_of_specific_phasiRNA/15℃-sensitive%20phasiRNAs%20identified%20in%20flowers.txt)
+2. PhasiRNA IDs: [15℃-sensitive phasiRNAs identified in leaves](list_of_specific_phasiRNA/15℃-sensitive%20phasiRNAs%20identified%20in%20leaves.txt)
+3. PhasiRNA IDs: [15℃-sensitive phasiRNAs identified in roots](list_of_specific_phasiRNA/15℃-sensitive%20phasiRNAs%20identified%20in%20roots.txt)
+4. PhasiRNA IDs: [15℃-sensitive phasiRNAs identified in seedlings](list_of_specific_phasiRNA/15℃-sensitive%20phasiRNAs%20identified%20in%20seedlings.txt)
+5. PhasiRNA IDs: [27℃-sensitive phasiRNAs identified in flowers](list_of_specific_phasiRNA/27℃-sensitive%20phasiRNAs%20identified%20in%20flowers.txt)
+6. PhasiRNA IDs: [27℃-sensitive phasiRNAs identified in leaves](list_of_specific_phasiRNA/27℃-sensitive%20phasiRNAs%20identified%20in%20leaves.txt)
+7. PhasiRNA IDs: [27℃-sensitive phasiRNAs identified in roots](list_of_specific_phasiRNA/27℃-sensitive%20phasiRNAs%20identified%20in%20roots.txt)
+8. PhasiRNA IDs: [27℃-sensitive phasiRNAs identified in seedlings](list_of_specific_phasiRNA/27℃-sensitive%20phasiRNAs%20identified%20in%20seedlings.txt)
+9. PhasiRNA IDs: [Flower-specific phasiRNAs identified at 15℃](list_of_specific_phasiRNA/Flower-specific%20phasiRNAs%20identified%20at%2015℃.txt)
+10. PhasiRNA IDs: [Leaf-specific phasiRNAs identified at 15℃](list_of_specific_phasiRNA/Leaf-specific%20phasiRNAs%20identified%20at%2015℃.txt)
+11. PhasiRNA IDs: [Flower-specific phasiRNAs identified at 27℃](list_of_specific_phasiRNA/Flower-specific%20phasiRNAs%20identified%20at%2027℃.txt)
 
 
-## RDR/DCL-dependent phasiRNA loci identified in flowers
+## [RDR/DCL-dependent phasiRNA loci identified in flowers](/Table%20S3%20RDR-%20or%20DCL-dependent%20phasiRNA%20loci%20identified%20in%20flowers.xls)
 
-## List of *TAS* loci and their temperature sensitivity and organ specificity
+## [List of *TAS* loci and their temperature sensitivity and organ specificity](/Table%20S4%20List%20of%20TAS%20loci%20and%20their%20temperature%20sensitivity%20and%20organ%20specificity.xls)
 
-## Supplementary figures
+## [Supplementary figures](/Supplementary%20figures.pdf)
