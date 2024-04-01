@@ -14,12 +14,15 @@ Workflow for identificaion of the phasiRNA loci
 
 
 ## All PhasiRNAs
+(In the expression data files, the phasiRNAs assigned to the loci passed "3-fold" screening are marked by blue colour.)
+
 |   | F | L | R | S | Temp15 | Temp27|
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | 21nt | [Seq](phasiRNA_seq/PhasiRNA%20seq_flower-21nt),[Exp](phasiRNA_expr/PhasiRNA_exp_flower_21nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_leaf-21nt),[Exp](phasiRNA_expr/PhasiRNA_exp_leaf_21nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_root-21nt),[Exp](phasiRNA_expr/PhasiRNA_exp_root_21nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_seedling-21nt),[Exp](phasiRNA_expr/PhasiRNA_exp_seedling_21nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_15℃-21nt),[Exp](phasiRNA_expr/PhasiRNA_exp_15℃_21nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_27℃-21nt),[Exp](phasiRNA_expr/PhasiRNA_exp_27℃_21nt.xls) |
 | 22nt | [Seq](phasiRNA_seq/PhasiRNA%20seq_flower-22nt),[Exp](phasiRNA_expr/PhasiRNA_exp_flower_22nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_leaf-22nt),[Exp](phasiRNA_expr/PhasiRNA_exp_leaf_22nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_root-22nt),[Exp](phasiRNA_expr/PhasiRNA_exp_root_22nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_seedling-22nt),[Exp](phasiRNA_expr/PhasiRNA_exp_seedling_22nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_15℃-22nt),[Exp](phasiRNA_expr/PhasiRNA_exp_15℃_22nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_27℃-22nt),[Exp](phasiRNA_expr/PhasiRNA_exp_27℃_22nt.xls) |
 | 23nt | [Seq](phasiRNA_seq/PhasiRNA%20seq_flower-23nt),[Exp](phasiRNA_expr/PhasiRNA_exp_flower_23nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_leaf-23nt),[Exp](phasiRNA_expr/PhasiRNA_exp_leaf_23nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_root-23nt),[Exp](phasiRNA_expr/PhasiRNA_exp_root_23nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_seedling-23nt),[Exp](phasiRNA_expr/PhasiRNA_exp_seedling_23nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_15℃-23nt),[Exp](phasiRNA_expr/PhasiRNA_exp_15℃_23nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_27℃-23nt),[Exp](phasiRNA_expr/PhasiRNA_exp_27℃_23nt.xls) |
 | 24nt | [Seq](phasiRNA_seq/PhasiRNA%20seq_flower-24nt),[Exp](phasiRNA_expr/PhasiRNA_exp_flower_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_leaf-24nt),[Exp](phasiRNA_expr/PhasiRNA_exp_leaf_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_root-24nt),[Exp](phasiRNA_expr/PhasiRNA_exp_root_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_seedling-24nt),[Exp](phasiRNA_expr/PhasiRNA_exp_seedling_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_15℃-24nt),[Exp](phasiRNA_expr/PhasiRNA_exp_15℃_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_27℃-24nt),[Exp](phasiRNA_expr/PhasiRNA_exp_27℃_24nt.xls) |
+
 
 
 ## List of temperature-sensitive/organ-specific phasiRNA loci
