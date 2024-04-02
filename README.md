@@ -1,10 +1,10 @@
 # PhasiRNAs in *Arabidopsis*: biogenesis, temperature sensitivity and organ specificity
 
-Workflow for identification of the phasiRNA loci
+**Workflow for identification of the phasiRNA loci**
 ![pipeline](pipeline.png)
 
 
-## All PHAS Loci
+## All *PHAS* loci
 |   | Flower | Leaf | Root | Seedling | 15℃ | 27℃ |
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | 21nt | [Seq](phase_loci/Loci%20seq_flower-21nt.txt) | [Seq](phase_loci/Loci%20seq_leaf-21nt.txt) | [Seq](phase_loci/Loci%20seq_root-21nt.txt) | [Seq](phase_loci/Loci%20seq_seedling-21nt.txt) | [Seq](phase_loci/Loci%20seq_15℃-21nt.txt) | [Seq](phase_loci/Loci%20seq_27℃-21nt.txt) |
