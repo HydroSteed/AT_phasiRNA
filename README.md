@@ -59,7 +59,7 @@
 
 ## [List of targets regulated by the tasiRNA candidates](/Table%20S6%20List%20of%20targets%20regulated%20by%20the%20tasiRNA%20candidates.pdf)
 
-## [T-plots showing the degradome-validated targets of the TAS candidate](/Figure%20S5%20Target%20plots%20showing%20the%20degradome-validated%20targets%20of%20the%20tasiRNAs%20encoded%20by%20a%20TAS%20candidate.pdf)
+## [T-plots showing the degradome-validated targets of the *TAS* candidate](/Figure%20S5%20Target%20plots%20showing%20the%20degradome-validated%20targets%20of%20the%20tasiRNAs%20encoded%20by%20a%20TAS%20candidate.pdf)
 
 ## [Supplementary figures](/Supplementary%20figures.pdf)
 
