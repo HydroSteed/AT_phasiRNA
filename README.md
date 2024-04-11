@@ -57,10 +57,10 @@
 
 ## [List of *TAS* loci and their temperature sensitivity and organ specificity](/Table%20S5%20List%20of%20TAS%20loci%20and%20their%20temperature%20sensitivity%20and%20organ%20specificity.xls)
 
-## [List of targets regulated by the tasiRNA candidates](/Figure%20S1%20S2%20S3%20S4%20S6%20S7%20S8%20and%20S9.pdf)
+## [List of targets regulated by the tasiRNA candidates](Table%20S6%20List%20of%20targets%20regulated%20by%20the%20tasiRNA%20candidates.pdf)
 
 ## [T-plots showing the degradome-validated targets of the *TAS* candidate](/Figure%20S5%20Target%20plots%20showing%20the%20degradome-validated%20targets%20of%20the%20tasiRNAs%20encoded%20by%20a%20TAS%20candidate.pdf)
 
-## [Supplementary figures](/Supplementary%20figures.pdf)
+## [Supplementary figures](/Figure%20S1%20S2%20S3%20S4%20S6%20S7%20S8%20and%20S9.pdf)
 
 
