@@ -53,7 +53,7 @@
 11. PhasiRNA IDs: [Flower-specific phasiRNAs identified at 27℃](list_of_specific_phasiRNA/Flower-specific%20phasiRNAs%20identified%20at%2027℃.txt)
 
 
-## [RDR/DCL-dependent phasiRNA loci identified in flowers](/Table%20S3%20RDR-%20or%20DCL-dependent%20phasiRNA%20loci%20identified%20in%20flowers.xls)
+## [RDR/DCL-dependent phasiRNA loci identified in flowers](/Table%20S4%20RDR-%20or%20DCL-dependent%20phasiRNA%20loci%20identified%20in%20flowers.xls)
 
 ## [List of *TAS* loci and their temperature sensitivity and organ specificity](/Table%20S4%20List%20of%20TAS%20loci%20and%20their%20temperature%20sensitivity%20and%20organ%20specificity.xls)
 
