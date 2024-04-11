@@ -24,7 +24,7 @@
 | 24 nt | [Seq](phasiRNA_seq/PhasiRNA%20seq_flower-24nt.txt), [Exp](phasiRNA_expr/PhasiRNA_exp_flower_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_leaf-24nt.txt), [Exp](phasiRNA_expr/PhasiRNA_exp_leaf_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_root-24nt.txt), [Exp](phasiRNA_expr/PhasiRNA_exp_root_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_seedling-24nt.txt), [Exp](phasiRNA_expr/PhasiRNA_exp_seedling_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_15℃-24nt.txt), [Exp](phasiRNA_expr/PhasiRNA_exp_15℃_24nt.xls) | [Seq](phasiRNA_seq/PhasiRNA%20seq_27℃-24nt.txt), [Exp](phasiRNA_expr/PhasiRNA_exp_27℃_24nt.xls) |
 <br>
 
-## [List of phasiRNAs enriched in AGO1 or AGO4 in different tissues](/Table%20S6%20List%20of%20phasiRNAs%20enriched%20in%20AGO1%20or%20AGO4%20in%20different%20tissues.xls)
+## [List of phasiRNAs enriched in AGO1 or AGO4 in different tissues](/Table%20S3%20List%20of%20phasiRNAs%20enriched%20in%20AGO1%20or%20AGO4%20in%20different%20tissues.xls)
 
 ## List of temperature-sensitive/organ-specific phasiRNA loci
 1. Locus IDs: [15℃-sensitive phasiRNA loci identified in flowers](list_of_specific_loci/15℃-sensitive%20phasiRNA%20loci%20identified%20in%20flowers.txt)
