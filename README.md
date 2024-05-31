@@ -63,4 +63,8 @@
 
 ## [Supplementary figures](/Figure%20S1%20S2%20S3%20S4%20S6%20S7%20S8%20and%20S9.pdf)
 
+### **Citation:**
+
+Feng Z, Ma X, Wu X, Wu W, Shen B, Li S, Tang Y, Wang J, Shao C, Meng Y. Genome-wide identification of phasiRNAs in Arabidopsis thaliana, and insights into biogenesis, temperature sensitivity, and organ specificity. Plant Cell Environ. 2024 May 27. doi: 10.1111/pce.14974.
+
 
